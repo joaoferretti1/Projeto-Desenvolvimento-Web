@@ -1,0 +1,15 @@
+
+#root {
+  width: 100%;
+  margin: 0 auto;
+  padding: 30px;
+  text-align: center;
+}
+
+h1 {
+  color: #2563eb;
+}
+
+p {
+  color: #555;
+}
